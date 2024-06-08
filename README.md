@@ -1,5 +1,6 @@
 # proyecto_est
 A inventory based program.
+https://youtu.be/4zHDQ2Y1vi4
 
 Es un gestor de inventarios multiproposito basado en lenguaje Python con librerias convencionales con funcionalidades como crear y administrar almacenes, buscar elementos por nombre y categorias,
 registro de eventos y mas!
